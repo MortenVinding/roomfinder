@@ -36,7 +36,7 @@
           <StartTime>$starttime</StartTime>
           <EndTime>$endtime</EndTime>
         </TimeWindow>
-        <MergedFreeBusyIntervalInMinutes>60</MergedFreeBusyIntervalInMinutes>
+        <MergedFreeBusyIntervalInMinutes>5</MergedFreeBusyIntervalInMinutes>
         <RequestedView>DetailedMerged</RequestedView>
       </FreeBusyViewOptions>
     </GetUserAvailabilityRequest>
