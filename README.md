@@ -6,7 +6,7 @@ Python scripts for finding free conference rooms from a Microsoft Exchange Serve
 Requirements:
  
  - curl
- - Python 2.7
+ - Python 3
  - Access to Exchange Web Service (EWS) API of a Microsoft Exchange Server 2010 
 
 Usage:
